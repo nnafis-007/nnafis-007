@@ -1,11 +1,11 @@
 # Hi 👋, I’m Nafis Nahian
 
-🚀 **Distributed Systems | DevOps | MLOps Engineer**  
+🚀 **Distributed Systems | DevOps | MLOps**  
 Building scalable, observable, and reliable systems at the intersection of cloud, Kubernetes, CI/CD, and ML infrastructure.
 
 📫 Reach me: **nafisnahian71@gmail.com**  
 🔗 LinkedIn: https://linkedin.com/in/nafis-nahian  
-💼 Resume: [View my resume](https://drive.google.com/file/d/1FQ_NgDhgI6qZ-cPAfGvIIxneBAs2TaP5/view?usp=drive_link)
+💼 [Resume](https://drive.google.com/file/d/1FQ_NgDhgI6qZ-cPAfGvIIxneBAs2TaP5/view?usp=drive_link)
 
 
 ---
@@ -46,7 +46,7 @@ Good starter repo demonstrating DevOps fundamentals.
 ### 🔹 **bugs-api-a…**
 Backend API for issue tracking or bug management.  
 **Tech:** Node.js/Express (assumed) · REST API · Backend systems  
-Shows API design and backend development fundamentals. -->
+Shows API design and backend development fundamentals. 
 
 ---
 
@@ -58,6 +58,7 @@ Shows API design and backend development fundamentals. -->
 - **CSE-313-OS…** — Operating Systems insights
 
 ---
+-->
 
 ## 🛠️ Tech Stack
 
