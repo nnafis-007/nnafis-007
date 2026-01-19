@@ -89,11 +89,11 @@ PyTorch · scikit-learn · Model deployment basics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=nnafis-007&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nnafis-007&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nnafis-007&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=nnafis-007&show_icons=true&locale=en&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
@@ -112,5 +112,6 @@ PyTorch · scikit-learn · Model deployment basics
 
 I’m open to collaboration on DevOps, Systems, MLOps or Distributed Systems projects!  
 Reach out anytime 👋
+
 📫 : **nafisnahian71@gmail.com**  
 🔗 : https://linkedin.com/in/nafis-nahian  
