@@ -1,6 +1,6 @@
 # Hi 👋, I’m Nafis Nahian
 
-🚀 **Distributed Systems | DevOps | MLOps**  
+🚀 **Distributed Systems | DevOps | ML/LLM Research**  
 Building scalable, observable, and reliable systems at the intersection of cloud, Kubernetes, CI/CD, and ML infrastructure.
 
 📫 Reach me: **nafisnahian71@gmail.com**  
