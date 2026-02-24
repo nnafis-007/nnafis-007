@@ -13,11 +13,11 @@ Building scalable, observable, and reliable systems at the intersection of cloud
 ## 🧠 What I Do
 I’m passionate about designing and operating:
 - 🌐 **Cloud-Native Distributed Systems**
-- ⚙️ **Kubernetes Platforms & Infrastructure**
+<!-- - ⚙️ **Kubernetes Platforms & Infrastructure** -->
 - 🔄 **CI/CD Pipelines & Automation**
 - 📊 **Observability (Prometheus, Grafana, Loki)**
-- 🤖 **MLOps / LLMOps Workflows**
-- 🧑‍💻 **Reliable Backend Services (Go, Python)**
+- 🤖 **MLOps Workflows**
+- 🧑‍💻 **Reliable Backend Services (Go, Python, Express)**
 
 <!-- ---
 
@@ -63,19 +63,19 @@ Shows API design and backend development fundamentals.
 ## 🛠️ Tech Stack
 
 **Cloud & Infrastructure:**  
-AWS · Azure · Linux · Terraform · Nginx
+AWS · Azure · Linux · Nginx
 
 **Containers & Orchestration:**  
 Docker · Kubernetes · Helm
 
 **CI/CD & Automation:**  
-Jenkins · GitHub Actions · Bash
+GitHub Actions · Bash
 
 **Observability:**  
 Prometheus · Grafana · Loki
 
 **Backend & Systems:**  
-Go · Python · Node.js · Java
+Express · Python · Java
 
 **Databases & Messaging:**  
 PostgreSQL · MongoDB · Redis · Kafka
